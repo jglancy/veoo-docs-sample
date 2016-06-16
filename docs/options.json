@@ -1,8 +1,8 @@
 {
   "public": true,
   "files": {
-    "index": "index.md",
-    "subpage1": "subpage1.md",
-    "subpage2": "subpage2.md"
+    "main": "index.md",
+    "page1": "subpage1.md",
+    "page2": "subpage2.md"
   }
 }
