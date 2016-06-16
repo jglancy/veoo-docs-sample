@@ -1,5 +1,8 @@
 {
-  "index": "index.md",
-  "subpage1": "subpage1.md",
-  "subpage2": "subpage2.md"
+  "public": true,
+  "files": {
+    "index": "index.md",
+    "subpage1": "subpage1.md",
+    "subpage2": "subpage2.md"
+  }
 }
