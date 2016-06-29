@@ -1,4 +1,4 @@
-# Subpage1 page
+# Subpage2 page
 Here is the index page of this sample docs.
 
 1. First step
