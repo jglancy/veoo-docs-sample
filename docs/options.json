@@ -1,6 +1,6 @@
 {
   "public": false,
-  "username": "itsme"
+  "username": "itsme",
   "password": "mario"
   "files": {
     "main": "index.md",
