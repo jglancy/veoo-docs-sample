@@ -1,5 +1,7 @@
 {
-  "public": true,
+  "public": false,
+  "username": "itsme"
+  "password": "mario"
   "files": {
     "main": "index.md",
     "page1": "subpage1.md",
