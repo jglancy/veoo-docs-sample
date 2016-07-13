@@ -1,10 +1,17 @@
 {
-  "public": false,
+  "public": true,
+  "in_menu": false,
   "username": "itsme",
   "password": "mario",
   "files": {
     "main": "index.md",
-    "page1": "subpage1.md",
-    "page2": "subpage2.md"
+    "page1": {
+      "file": "subpage1.md",
+      "in_menu": false
+    },
+    "page2": {
+      "file": "subpage2.md",
+      "title": "This is the title"
+    }
   }
 }
